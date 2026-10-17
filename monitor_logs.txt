@@ -1,0 +1,123 @@
+==================================
+       EC2 SERVER MONITOR
+==================================
+
+Date and Time:
+Sat Oct 17 09:19:04 UTC 2026
+
+----- SERVICE STATUS -----
+active
+
+----- CPU USAGE -----
+top - 09:19:04 up  1:46,  2 users,  load average: 0.00, 0.00, 0.00
+Tasks: 117 total,   1 running, 116 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :    908.7 total,    256.5 free,    314.1 used,    450.8 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    594.6 avail Mem 
+
+----- MEMORY USAGE -----
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       314Mi       256Mi       2.7Mi       450Mi       594Mi
+Swap:             0B          0B          0B
+
+----- DISK USAGE -----
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  912K  181M   1% /run
+efivarfs         128K  3.1K  120K   3% /sys/firmware/efi/efivars
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            455M     0  455M   0% /tmp
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+
+==================================
+       MONITORING COMPLETE
+==================================
+==================================
+       EC2 SERVER MONITOR
+==================================
+
+Date and Time:
+Sat Oct 17 09:23:49 UTC 2026
+
+----- SERVICE STATUS -----
+active
+
+----- CPU USAGE -----
+top - 09:23:50 up  1:50,  2 users,  load average: 0.00, 0.00, 0.00
+Tasks: 119 total,   1 running, 118 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  4.8 st 
+MiB Mem :    908.7 total,    255.3 free,    314.9 used,    451.1 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    593.8 avail Mem 
+
+----- MEMORY USAGE -----
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       314Mi       255Mi       2.7Mi       451Mi       593Mi
+Swap:             0B          0B          0B
+
+----- DISK USAGE -----
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  912K  181M   1% /run
+efivarfs         128K  3.1K  120K   3% /sys/firmware/efi/efivars
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            455M     0  455M   0% /tmp
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+
+==================================
+       MONITORING COMPLETE
+==================================
+==================================
+       EC2 SERVER MONITOR
+==================================
+
+Date and Time:
+Sat Oct 17 09:45:01 UTC 2026
+
+----- SERVICE STATUS -----
+active
+
+----- CPU USAGE -----
+top - 09:45:02 up  2:11,  2 users,  load average: 0.00, 0.00, 0.00
+Tasks: 121 total,   1 running, 120 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.3 us,  0.0 sy,  0.0 ni, 73.9 id,  0.0 wa,  0.0 hi,  0.0 si, 21.7 st 
+MiB Mem :    908.7 total,    223.8 free,    323.5 used,    474.1 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    585.2 avail Mem 
+
+----- MEMORY USAGE -----
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       323Mi       223Mi       2.7Mi       474Mi       585Mi
+Swap:             0B          0B          0B
+
+----- DISK USAGE -----
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  912K  181M   1% /run
+efivarfs         128K  3.1K  120K   3% /sys/firmware/efi/efivars
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            455M     0  455M   0% /tmp
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+
+==================================
+       MONITORING COMPLETE
+==================================
